@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="toolbarColor">#ffffeb4f</color>
+    <color name="primaryDarkColor">#ffffc328</color>
+    <color name="colorFrame">#FFFFFF</color>
+    <color name="ralativeColor">#E3F2FD</color>
+
+    <color name="colorNormal">#3F51B5</color>
+    <color name="colorPressed">#5C6BC0</color>
+    <color name="colorRipple">#303F9F</color>
+    <color name="colorCheck">#ffff211e</color>
+
+</resources>
